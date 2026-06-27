@@ -105,6 +105,11 @@ Download them separately and place them inside the `core/` directory before runn
 * Mobile application
 * Docker deployment
 
+## Team Members
+
+- Syeda Maleeha Bano Naqvi
+- Laiba Tauseef
+
 ## Author
 
 Syeda Maleeha Bano Naqvi
